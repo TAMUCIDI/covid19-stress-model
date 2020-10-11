@@ -1,0 +1,74 @@
+Iteration 1
+Adding 5 new words to the NOT_STRESSED lexicon.
+        ywacreate
+        txnurses
+        moodbooster
+        irinews
+        intratissue
+
+Adding 5 new words to the STRESSED lexicon.
+        everythinganxiety
+        unpredictability
+        eventsschool
+        scares
+        nervousness
+
+Iteration 2
+Adding 5 new words to the NOT_STRESSED lexicon.
+        quotesaboutlife
+        weeeeeee
+        cyclospora
+        suffer
+        yhunter
+
+Adding 5 new words to the STRESSED lexicon.
+        unease
+        apathy
+        hypochondria
+        craze
+        excitement
+
+Iteration 3
+Adding 5 new words to the NOT_STRESSED lexicon.
+        cryoem
+        onduct
+        syllable
+        divison
+        eyfs
+
+Adding 5 new words to the STRESSED lexicon.
+        overthinking
+        confusion
+        vetting
+        turmoil
+        uncertainty
+
+Iteration 4
+Adding 5 new words to the NOT_STRESSED lexicon.
+        lagelu
+        kpfk
+        cfru
+        kpcc
+        worldhealth
+
+Adding 5 new words to the STRESSED lexicon.
+        dinformation
+        dougmathews
+        mathematicalmodelling
+        buffers
+        dread
+
+Iteration 5
+Adding 5 new words to the NOT_STRESSED lexicon.
+        kiroradio
+        scotlands
+        holla
+        practise
+        safety
+
+Adding 5 new words to the STRESSED lexicon.
+        wahalla
+        ericklinenberg
+        scarcity
+        straits
+        disappointment
